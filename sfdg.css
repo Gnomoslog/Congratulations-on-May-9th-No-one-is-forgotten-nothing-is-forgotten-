@@ -74,3 +74,21 @@ body {
 .button-26 { background-color: #00ff91; }
 .button-27 { background-color: #A833FF; }
 
+.logo {
+  position: relative;
+  top: -220px;
+  font-size: 40px;
+}
+.logo2 {
+  position: relative;
+  top: -310px;
+  left: -970px;
+  font-size: 40px;
+}
+.logo3 {
+  position: relative;
+  top: -80px;
+  left: -390px;
+  font-size: 40px;
+}
+
